@@ -12,3 +12,5 @@ report of the project
 #### Example of simultation
 
 Applied current at the center of the domain, horizontal fibers
+
+![rep_nref=6](https://user-images.githubusercontent.com/119116024/226126243-12b34253-788b-4cf0-a4dd-cbb899a366f5.gif)
