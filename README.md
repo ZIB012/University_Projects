@@ -35,3 +35,28 @@ This repository contains all the projects of my Master's Degree courses on COMPU
 - Bitcoin Core.
 - Wallets.
 - Token and Stablecoins.
+
+## Computational Statistics
+
+The course is organized in theoretical lectures and lab sessions. An additional project must be carried out in the form 5+3 CFU. Lectures will provide the theoretical background; practical Lab sessions will provide algorithms' implementation and examples of application of the considered methodologies by using basic Matlab codes.
+ 
+Part 1. Numerical simulation of random processes and sampling methods
+
+- Random number generation: inversion method, transformations, rejection sampling. 
+- Gaussian processes. Karhunen-Loève expansion.
+- Monte Carlo methods, estimates, error. Multi-level (or multi-fidelity) Monte Carlo methods.
+- Variance reduction techniques.
+
+Part 2. Sensitivity analysis and forward Uncertainty Quantification
+
+- Sensitivity analysis of multiple parameters: one-at-a-time, elementary effect methods, variance-based methods.
+- Surrogate models or emulators: polynomial chaos expansions, reduced-order models.
+- Uncertainty propagation through Monte Carlo methods. Application to differential models.
+
+Part 3. Data assimilation and inverse Uncertainty Quantification
+
+- Statistical inverse problems: a Bayesian setting for parameter estimation.
+- Monte Carlo Markov Chain methods. Application to differential models.
+- Data assimilation: Kalman filters and particle filters. Application to differential models.
+
+#### Project: NeuralUQ
