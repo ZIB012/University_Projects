@@ -13,7 +13,6 @@ This repository contains all the projects of my Master's Degree courses on COMPU
 
 ## Fintech
 #### Course description:
- 
 ##### Machine Learning & BigData:
 
 - Machine learning techniques and their application to financial problem: unsupervised, supervised, reinforcement learning.
@@ -32,7 +31,7 @@ This repository contains all the projects of my Master's Degree courses on COMPU
 - Token and Stablecoins.
 
 ## Computational Statistics
-
+#### Course description:
 The course is organized in theoretical lectures and lab sessions. An additional project must be carried out in the form 5+3 CFU. Lectures will provide the theoretical background; practical Lab sessions will provide algorithms' implementation and examples of application of the considered methodologies by using basic Matlab codes.
  
 Part 1. Numerical simulation of random processes and sampling methods
