@@ -1,0 +1,6 @@
+function [pl,ql,pr,qr] = oscbc(xl,ul,xr,ur,t)
+pl = ul;
+ql = 0;
+pr = ur - cos(4*pi*t)/10;
+qr = 0;
+end
